@@ -1,0 +1,8 @@
+pip install selenium
+
+
+download chrome driver from here:
+https://chromedriver.storage.googleapis.com/92.0.4515.43/chromedriver_win32.zip
+
+
+enjoy!
